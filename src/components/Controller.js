@@ -1,6 +1,5 @@
 import React from 'react';
 import '../css/App.css';
-//import Play from '../services/Play';
 
 class Controller extends React.Component {
 

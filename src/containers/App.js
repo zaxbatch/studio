@@ -5,9 +5,6 @@ import Menu from '../components/Menu';
 import Timer from '../components/Timer';
 import Import from '../components/Import';
 import Record from '../components/Record';
-import LoadSong from '../services/LoadSong';
-import Alert from '../services/Alert';
-import WaveSurfer from 'wavesurfer.js';
 
 
 class App extends React.Component {
