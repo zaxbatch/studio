@@ -1,5 +1,5 @@
 const Play=()=> {
-	global.wavesurfer.play()
+	global.wavesurfer.playPause()
 }
 
 export default Play;
