@@ -23,6 +23,7 @@
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-around;
+
 }
 
 .menu-item {
@@ -42,7 +43,13 @@
   display: inline-flex;
   border: 1px solid black;
   padding: .4rem;
+  
+}
 
+.flex-box-center {
+  display: flex;
+  justify-content: center;
+  
 }
 
 .track {
@@ -71,7 +78,7 @@
 }
 
 #import-song {
-  visibility: show;
+  visibility: hidden;
 }
 
 @keyframes App-logo-spin {
